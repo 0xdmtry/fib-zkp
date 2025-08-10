@@ -536,3 +536,7 @@ cache/
 
 # Docs
 docs/
+
+# Risc0
+methods/guest/Cargo.lock
+
