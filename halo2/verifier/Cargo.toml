@@ -1,0 +1,11 @@
+[package]
+name = "verifier"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fib-circuit = { path = "../fib-circuit" }
+halo2_proofs.workspace = true
+pasta_curves.workspace = true
+serde.workspace = true
+bincode.workspace = true

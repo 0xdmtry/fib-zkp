@@ -1,0 +1,8 @@
+[package]
+name = "fib-circuit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+halo2_proofs.workspace = true
+pasta_curves.workspace = true
